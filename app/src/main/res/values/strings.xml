@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mymvp</string>
+
+    <string name="behavior_contents">cash.app.com.mymvp.view.behavior.uc.UcNewsContentBehavior</string>
+    <string name="behavior_uc_header_pager">cash.app.com.mymvp.view.behavior.uc.UcNewsHeaderPagerBehavior</string>
+    <string name="behavior_uc_title">cash.app.com.mymvp.view.behavior.uc.UcNewsTitleBehavior</string>
+    <string name="behavior_uc_news_tab">cash.app.com.mymvp.view.behavior.uc.UcNewsTabBehavior</string>
+</resources>
